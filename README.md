@@ -1,5 +1,5 @@
 - 👋 Hi, I’m <b>Kshitij Tandon</b>
-- 👀 I’m a Postdoctoral Research Fellow at the School of BioSciences,University of Melbourne.
+- 👀 I’m a Postdoctoral Research Fellow at The Peter Doherty Institute of Infection and Immunity,University of Melbourne.
 - :computer: Talk with me on analysing genomics, metagenomics, microbiome data and bioinformatics.
 - 💞️ I’m looking to collaborate on <b>microbiome data analysis</b>, <b>metagenome binning algorithms</b> and <b>developing bioinformatics data analysis worflows in <b>Snakemake or nextflow</b>
 - 📫 Follow me on Twitter: [@kt_microbes](https://twitter.com/kt_microbes) and [ResearchGate](https://www.researchgate.net/profile/Kshitij-Tandon).
